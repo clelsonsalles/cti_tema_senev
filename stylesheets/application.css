@@ -3,10 +3,11 @@
 
 /* add a logo in the header */
 #header {
-    background: #507AAA url(../images/Capa02.png) no-repeat 2px;
+    background: url(../images/Capa02.png) no-repeat 2px;
     padding-left: 86px;
-    background-color: #7800AA;
     color: #ffffff; /* Define a cor do texto no header para branco */
+    background-size: cover;
+    background-position: center;
 }
 
 /* move the project menu to the right */
