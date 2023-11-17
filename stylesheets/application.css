@@ -5,10 +5,19 @@
 #header {
     background: #507AAA url(../images/Capa02.png) no-repeat 2px;
     padding-left: 86px;
+    background-color: #7800AA;
+    color: #ffffff; /* Define a cor do texto no header para branco */
 }
 
 /* move the project menu to the right */
 #main-menu {
     left: auto;
     right: 0px;
+}
+
+#top-menu {
+  background-color: #4f0070;
+  font-family: 'Montserrat', 'Verdana', sans-serif;
+  font-size: 9.6px;
+  padding: 2px 10px 18px 12px;
 }
