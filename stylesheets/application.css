@@ -29,6 +29,7 @@
 
 #top-menu {
   background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url(../images/Plano_de_Fundo02.png) no-repeat 2px;
+  background: contain
   background-position: center;
   font-family: 'Montserrat', 'Verdana', sans-serif;
   font-size: 9.6px;
