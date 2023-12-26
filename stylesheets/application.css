@@ -42,27 +42,7 @@
     font-size: 12px;
 }
 
-#quick-search #q {
-    width: 130px;
-    height: 32px;
-    box-sizing: border-box;
-    vertical-align: middle;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-}
 
-.drdn-trigger {
-    width: 100%;
-    height: 32px;
-    display: inline-block;
-    padding: 3px 18px 3px 6px;
-    border-radius: 3px;
-    border: 1px solid #ccc;
-    margin: 0 !important;
-    vertical-align: middle;
-    color: #555;
-    background: #fff url(../images/arrow_down.png) no-repeat 97% 50%;
-}
 
 h2, h3 {
   font-family: 'Montserrat', 'Verdana', sans-serif;
