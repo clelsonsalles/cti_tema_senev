@@ -23,8 +23,7 @@
 
 /* move the project menu to the right */
 #main-menu {
-    left: auto;
-    right: 0px;
+    
     font-family: 'Montserrat', 'Verdana', sans-serif;
 }
 
