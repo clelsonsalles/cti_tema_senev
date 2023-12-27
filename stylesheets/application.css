@@ -13,6 +13,14 @@
     overflow-x: auto;
 }
 
+div.issue {
+    background: #efefef;
+    padding: 12px;
+    margin-bottom: 10px;
+    border: 1px solid #d7d7d7;
+    border-radius: 10px;
+}
+
 
 /* add a logo in the header */
 
