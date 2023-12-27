@@ -13,6 +13,14 @@
     overflow-x: auto;
 }
 
+ #sidebar {
+    flex-shrink: 0;
+    padding-left: 20px;
+    padding-right: 8px;
+    background: #D1CFDD;
+    border-left: 1px solid #ddd;
+}
+
 div.issue {
     background: #DFCEE0;
     padding: 12px;
