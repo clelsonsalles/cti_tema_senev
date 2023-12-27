@@ -12,6 +12,14 @@
     overflow-x: auto;
 }
 
+div#activity h3 {
+    padding: 5px;
+    
+    font-size: 24px;
+    font-variant-caps: small-caps;
+    font-weight: 700;
+}
+
 #main-menu li a {
     display: block;
     color: #fff;
