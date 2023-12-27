@@ -21,6 +21,12 @@ div.issue {
     border-radius: 10px;
 }
 
+div.issue div.subject h3 {
+    margin: 0;
+    margin-bottom: 0.1em;
+    font-size: 22px;
+}
+
 
 /* add a logo in the header */
 
