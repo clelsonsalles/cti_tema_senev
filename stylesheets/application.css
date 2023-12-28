@@ -12,21 +12,6 @@
     overflow-x: auto;
 }
 
-
-
-
-progress, .progress-stacked {
-    --bs-progress-height: 1rem;
-    --bs-progress-font-size: 0.75rem;
-    --bs-progress-bg: var(--bs-secondary-bg);
-    --bs-progress-border-radius: var(--bs-border-radius);
-    --bs-progress-box-shadow: var(--bs-box-shadow-inset);
-    --bs-progress-bar-color: #fff;
-    --bs-progress-bar-bg: #0d6efd;
-    --bs-progress-bar-transition: width 0.6s ease;
-}
-
-
 #activity h3 {
     padding: 5px;
    
@@ -125,7 +110,7 @@ h2, h3 {
 }
 
 .footer-mulheres {
-  background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.1)), url(../images/Marca_BRANCO.png) no-repeat 2px;
+ 
   background: #4F0070;
   display: flex;
   align-items: center;
