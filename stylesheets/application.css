@@ -2,6 +2,11 @@
 @import url(../../../stylesheets/application.css);
 
 
+.logoLelia {
+    background: url(../images/logoLelia.png);
+}
+
+
 
 
 #content {
