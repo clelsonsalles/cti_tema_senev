@@ -12,6 +12,17 @@
     overflow-x: auto;
 }
 
+.footer-mulheres {
+    background: #4F0070;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 84px;
+    padding: 0px 50px;
+    color: rgba(0,0,0,0.3);
+    width: 100%;
+}
+
 progress, .progress-stacked {
     --bs-progress-height: 1rem;
     --bs-progress-font-size: 0.75rem;
