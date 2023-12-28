@@ -3,7 +3,10 @@
 
 
 .logoLelia {
-    background: url(../images/logoLelia.png) no-repeat 2px;
+    background: url(../images/logoLelia.png) no-repeat;
+    background: cover;
+    width: 300px;
+    height: 100px;
 }
 
 
