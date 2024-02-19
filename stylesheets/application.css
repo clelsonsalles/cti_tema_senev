@@ -14,6 +14,16 @@
     
 }
 
+#login-form {
+    margin: 5em auto 2em auto;
+    padding: 20px;
+    width: 340px;
+    border: 1px solid #4F0070;
+    background-color: #FFEBC1;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
 .nodata, .warning {
     text-align: center;
     background-color: #C9BFE2;
